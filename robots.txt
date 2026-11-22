@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://lightroomapk.github.io/sitemap.xml
+Sitemap: https://lightroomapkhub.github.io/sitemap.xml
+
